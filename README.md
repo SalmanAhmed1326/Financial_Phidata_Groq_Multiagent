@@ -39,7 +39,8 @@ This repository implements a **Multi-Agent System** leveraging the **Phidata fra
 ---
 
 #### **Note**:
-Please add your OpenAi Api Key in .env file.
+Please add your OpenAi Api Key in .env file with Groq and Phidata Api Key.
+----
 
 
 ### Command to Run the Agent
